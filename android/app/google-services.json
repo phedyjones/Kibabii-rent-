@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917652660925",
+    "project_id": "kibabii-rent-app",
+    "storage_bucket": "kibabii-rent-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917652660925:android:d2f7262976bbd7bdb70dd4",
+        "android_client_info": {
+          "package_name": "com.example.kibabii_rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917652660925-piel5oor1sukcs0te0tf02n4tj21gkff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxP-MCwRBzN3wmYe874Kb43-F_ggcPrXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917652660925-piel5oor1sukcs0te0tf02n4tj21gkff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
